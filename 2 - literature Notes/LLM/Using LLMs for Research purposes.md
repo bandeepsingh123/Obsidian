@@ -20,3 +20,8 @@ Status : #inProgress
 - Copy-pasting entire LLM responses without understanding
 - Using LLM as your only source
 - Not verifying critical information
+### Recommended Approach
+- **Start with LLM** to get basic understanding
+- **Cross-reference** with official docs (MDN, etc.)
+- **Write in your own words** - this proves you understand
+- **Ask follow-up questions** to the LLM if confused
