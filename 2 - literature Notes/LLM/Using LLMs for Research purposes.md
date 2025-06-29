@@ -7,4 +7,4 @@ Status : #inProgress
 - Using LLMs for research is very good decision 
 - Industry professional use it all the time
 ### Smart Research Strategy
-- one 
+- The individual should always prefer **Official documentation** as primary source of the 
