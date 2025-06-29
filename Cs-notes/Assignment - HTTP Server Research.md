@@ -40,7 +40,73 @@ This teaches you **requirements analysis** - a critical skill where you understa
 
 **Submit your research document when ready, and I'll review it like a senior developer would review a design doc!** 
 
----------------------
+--------------------------------------------------------------------
+HTTP Server Research - [Your Name]
+Date: [Today's Date]
 
+=== 1. BASIC HTTP REQUEST STRUCTURE ===
 
+Key Components:
+- Request Method (GET, POST, etc.)
+- URL/Path
+- HTTP Version
+- Headers
+- Body (optional)
+
+Example GET Request:
+GET /index.html HTTP/1.1
+Host: www.example.com
+User-Agent: Mozilla/5.0
+Accept: text/html
+
+=== 2. BASIC HTTP RESPONSE STRUCTURE ===
+
+Key Components:
+- Status Line (HTTP version + status code)
+- Headers
+- Body (the actual content)
+
+Example Response:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1234
+
+<html>
+<body>Hello World!</body>
+</html>
+
+=== 3. HTTPS VS HTTP ===
+
+HTTP:
+- Plain text communication
+- Port 80
+- Can be intercepted/read by anyone
+
+HTTPS:
+- Encrypted communication using TLS/SSL
+- Port 443
+- Secure from eavesdropping
+
+Why HTTPS matters:
+- Protects user data
+- Prevents man-in-the-middle attacks
+- Required by modern browsers for many features
+
+=== 4. STATIC FILE SERVING ===
+
+What it means:
+- Server reads files from disk (like index.html, style.css)
+- Sends file contents back to browser
+- No dynamic processing/generation
+
+Example flow:
+1. Browser requests: GET /index.html
+2. Server finds index.html file on disk
+3. Server reads file contents
+4. Server sends back contents with proper headers
+
+=== QUESTIONS/CONFUSIONS ===
+- Still unclear about: [mention anything confusing]
+- Want to learn more about: [areas of interest]
+--------------------------------------------------------
 ## Reference
