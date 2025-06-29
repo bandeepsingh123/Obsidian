@@ -8,4 +8,5 @@ Status : #inProgress
 - Industry professional use it all the time
 ### Smart Research Strategy
 - The individual should always prefer **Official documentation** as primary source of the information about the topic
-- Followed by the knowledge gained from **Official Documentation** the individual dives deep into the topic by reading sources like books,blogs,
+- Followed by the knowledge gained from **Official Documentation** the individual dives deep into the topic by reading sources like books,blogs,articles etc.
+- The purpose of LLMs should be to help understand the information, clearing doubts,
