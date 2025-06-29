@@ -40,7 +40,7 @@ This teaches you **requirements analysis** - a critical skill where you understa
 
 **Submit your research document when ready, and I'll review it like a senior developer would review a design doc!** 
 
-
+---------------------
 
 
 ## Reference
