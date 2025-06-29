@@ -108,5 +108,10 @@ Example flow:
 === QUESTIONS/CONFUSIONS ===
 - Still unclear about: [mention anything confusing]
 - Want to learn more about: [areas of interest]
---------------------------------------------------------
+------------------------------------------------------------------------
+"Explain HTTP request structure like I'm a beginner programmer"
+"Give me a simple example of an HTTP GET request"
+"What are the most important HTTP status codes I should know?"
+"Explain HTTPS vs HTTP in simple terms"
+
 ## Reference
