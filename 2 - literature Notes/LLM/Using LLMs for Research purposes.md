@@ -4,5 +4,6 @@ Source : Claude sonnet 4
 
 Status : #inProgress 
 # Information
-- LLMs are one of the  very useful set of tools for resea
+- Using LLMs for research is very good decision 
+- Industry professional use it all the 
 ##
