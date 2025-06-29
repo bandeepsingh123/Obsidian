@@ -12,3 +12,11 @@ Status : #inProgress
 - The purpose of LLMs should be to help understand the information, clearing doubts, answering question, giving examples, help understanding the use case, justify the need, comparing/providing alternatives
 ### LLM Usage - Professional Guidelines
 #### Good Uses:
+- "Explain HTTP request structure in simple terms"
+- "Give me an example of a GET request with headers"
+- "What's the difference between HTTP and HTTPS?"
+- "Help me understand this concept: [paste confusing text]"
+#### Avoid
+- Copy-pasting entire LLM responses without understanding
+- Using LLM as your only source
+- Not verifying critical information
