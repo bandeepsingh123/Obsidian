@@ -82,4 +82,8 @@ HTTP response format (HTTP/1.1 200 OK):
 - HTTP/1.1: The version of the Http protocol being used
 - 200: The status code-tells if the request successful or failed
 - OK: A human-readable status message that describes the status code
+
+Status codes: 200, 404, 500:
+- 200: OK- Success everything went fine
+- 404: Not Found- The page does
 ## Reference
