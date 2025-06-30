@@ -7,4 +7,4 @@ Execute the given prompt
 -the user will use these to explore and learn more about the topic/domain in depth
 -the user will use this in his research on ""
 -mention prerequsites the user must know before exploring each topic
--include resource for prerequsites
+-also include resource for prerequsites
