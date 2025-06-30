@@ -85,5 +85,6 @@ HTTP response format (HTTP/1.1 200 OK):
 
 Status codes: 200, 404, 500:
 - 200: OK- Success everything went fine
-- 404: Not Found- The page does
+- 404: Not Found- The page doesn't exit
+- 500: Internal Server Error- Something went wrong on the server
 ## Reference
