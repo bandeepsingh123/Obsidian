@@ -31,4 +31,9 @@ Research Note:
 
 what is a Socket( )?
 - Socket is a virtual plug used by programs to communicate( send and receive data ) using standard Unix file descriptors.
+
+Types of Socket( )?
+- DARPA Internet addresses (Internet Sockets)
+- path names on a local node (Unix Sockets),
+-CCITT X.25 addresses
 ## Reference
