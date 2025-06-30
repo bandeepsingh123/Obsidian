@@ -19,4 +19,6 @@ Stream Sockets are reliable two- way connected communication streams. i.e. outpu
 
 Telent and SSH applications use stream socket
 Browser uses Hypertext Transfer Protocol (HTTP) uses stream sockets to get pages
+
+
 ## Reference
