@@ -52,4 +52,9 @@ What does listen() do?
 
 What does accept() do?
 - accepts connection from client trying to talk to the server
+
+### Basic server flow: socket → bind → listen → accept → read/write
+
+socket( )
+**Purpose**: Create a socket (endpoint) for communication.
 ## Reference
