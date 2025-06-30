@@ -12,9 +12,10 @@ Types of sockets()?
 -CCITT X.25 addresses (X.25 Sockets that you can safely ignore)
 
 Types of Internet Sockets:
-- Stream Sockets : "SOCK_STREAM" ,
-- DataGram Sockets : "SOCK_DGRAM" ,  also called connectionless sockets
+- Stream Sockets : "SOCK_STREAM" 
+- DataGram Sockets : "SOCK_DGRAM" ,  also called connection-less sockets
 
+Stream Sockets are reliable two- way connected communication streams. i.e
 
 
 
