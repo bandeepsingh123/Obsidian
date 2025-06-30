@@ -65,5 +65,10 @@ listen( )
 Tell the socket to start listening for incoming connections.
 
 accept( )
+Accept a client connection request.
+
+`read()` / `write()` (or `recv()` / `send()`)
+Exchange data with the connected client.
+
 
 ## Reference
