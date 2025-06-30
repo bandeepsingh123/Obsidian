@@ -74,7 +74,7 @@ Hypertext Transfer Protocol (HTTP) :
 - is used by web browser and servers to request and deliver data
 
 HTTP request format (GET /path HTTP/1.1):
-- GET:
-
-
+- GET: Fetch data from server
+- path HTTP: The path to the resource you want
+- 
 ## Reference
