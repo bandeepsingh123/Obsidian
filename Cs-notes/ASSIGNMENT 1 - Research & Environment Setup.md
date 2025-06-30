@@ -35,5 +35,9 @@ what is a Socket( )?
 Types of Socket( )?
 - DARPA Internet addresses (Internet Sockets)
 - path names on a local node (Unix Sockets),
--CCITT X.25 addresses
+- CCITT X.25 addresses
+
+Internet Sockets( )?
+-  Stream Sockets : "SOCK_STREAM" also called 
+- DataGram Sockets : "SOCK_DGRAM" ,  also called connection-less sockets
 ## Reference
