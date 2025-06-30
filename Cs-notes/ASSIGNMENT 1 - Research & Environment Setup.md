@@ -17,6 +17,6 @@ Types of Internet Sockets:
 
 Stream Sockets are reliable two- way connected communication streams. i.e. output 1 2 from one socket will be received as 1 2 by receiver socket. It is also error free
 
-
+Telent and SSH applications use stream socket
 
 ## Reference
