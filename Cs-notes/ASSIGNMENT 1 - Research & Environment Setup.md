@@ -12,8 +12,8 @@ Types of sockets()?
 -CCITT X.25 addresses (X.25 Sockets that you can safely ignore)
 
 Types of Internet Sockets:
-- Stream Sockets "SOCK_STREAM"
-- DataGram Sockets
+- Stream Sockets : "SOCK_STREAM" ,
+- DataGram Sockets : "SOCK_DGRAM" ,  also called connectionless sockets
 
 
 
