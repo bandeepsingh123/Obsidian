@@ -48,6 +48,8 @@ What does bind() do?
 - assigns an IP address and port number to socket
 
 What does listen() do?
-- 
+- tell socket to start listening for incoming connection
+
 What does accept() do?
+- ccepts connection from client trying to talk t
 ## Reference
