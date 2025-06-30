@@ -22,4 +22,6 @@ Browser uses Hypertext Transfer Protocol (HTTP) uses stream sockets to get pages
 
 Stream Sockets use “The Transmission Control Protocol”, otherwise known as “TCP”
 TCP makes sure data arrives sequentially and error-free
+
+DataGram sockets use IP for routing but they dont use TCP they use the “User Datagram Protocol”
 ## Reference
