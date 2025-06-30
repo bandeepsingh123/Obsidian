@@ -15,7 +15,7 @@ Types of Internet Sockets:
 - Stream Sockets : "SOCK_STREAM" 
 - DataGram Sockets : "SOCK_DGRAM" ,  also called connection-less sockets
 
-Stream Sockets are reliable two- way connected communication streams. i.e
+Stream Sockets are reliable two- way connected communication streams. i.e. output 1 2 from one socket will be received as 1 2 by receiver socket
 
 
 
