@@ -41,5 +41,7 @@ Internet Sockets( )?
 -  Stream Sockets : "SOCK_STREAM" also called TCP Socket
 - DataGram Sockets : "SOCK_DGRAM" ,  also called  UDP(connection-less) sockets
 
-What 
+What is does Socket( ) do?
+- uses to create a socket 
+- 
 ## Reference
