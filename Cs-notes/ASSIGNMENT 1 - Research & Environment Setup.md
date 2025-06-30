@@ -57,4 +57,13 @@ What does accept() do?
 
 socket( )
 **Purpose**: Create a socket (endpoint) for communication.
+
+bind( )
+**Purpose**: Assign a local IP address and port to your socket.
+
+listen( )
+Tell the socket to start listening for incoming connections.
+
+accept( )
+
 ## Reference
