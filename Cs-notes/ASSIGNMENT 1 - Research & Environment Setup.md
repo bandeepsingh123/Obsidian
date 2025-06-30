@@ -38,6 +38,8 @@ Types of Socket( )?
 - CCITT X.25 addresses
 
 Internet Sockets( )?
--  Stream Sockets : "SOCK_STREAM" also called 
-- DataGram Sockets : "SOCK_DGRAM" ,  also called connection-less sockets
+-  Stream Sockets : "SOCK_STREAM" also called TCP Socket
+- DataGram Sockets : "SOCK_DGRAM" ,  also called  UDP(connection-less) sockets
+
+What 
 ## Reference
