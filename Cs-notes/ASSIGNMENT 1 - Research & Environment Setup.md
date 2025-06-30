@@ -51,5 +51,5 @@ What does listen() do?
 - tell socket to start listening for incoming connection
 
 What does accept() do?
-- ccepts connection from client trying to talk t
+- accepts connection from client trying to talk to the server
 ## Reference
