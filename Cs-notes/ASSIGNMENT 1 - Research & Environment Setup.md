@@ -79,5 +79,6 @@ HTTP request format (GET /path HTTP/1.1):
 - 1.1: The HTTP version you're using
 
 HTTP response format (HTTP/1.1 200 OK):
-- 
+- HTTP/1.1: The version of the Http protocol being used
+- 200: The status code-tells if the request 
 ## Reference
