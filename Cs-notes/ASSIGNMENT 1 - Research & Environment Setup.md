@@ -43,5 +43,11 @@ Internet Sockets( )?
 
 What is does Socket( ) do?
 - uses to create a socket 
+
+What does bind() do?
+- assigns an IP address and port number to socket
+
+What does listen() do?
 - 
+What does accept() do?
 ## Reference
