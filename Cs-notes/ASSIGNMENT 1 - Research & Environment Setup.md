@@ -76,5 +76,8 @@ Hypertext Transfer Protocol (HTTP) :
 HTTP request format (GET /path HTTP/1.1):
 - GET: Fetch data from server
 - path HTTP: The path to the resource you want
+- 1.1: The HTTP version you're using
+
+HTTP response format (HTTP/1.1 200 OK):
 - 
 ## Reference
