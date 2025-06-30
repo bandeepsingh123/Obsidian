@@ -80,5 +80,6 @@ HTTP request format (GET /path HTTP/1.1):
 
 HTTP response format (HTTP/1.1 200 OK):
 - HTTP/1.1: The version of the Http protocol being used
-- 200: The status code-tells if the request 
+- 200: The status code-tells if the request successful or failed
+- OK: A human-readable status message that describes the status code
 ## Reference
