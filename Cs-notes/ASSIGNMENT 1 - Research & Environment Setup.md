@@ -27,4 +27,7 @@ DataGram sockets use IP for routing but they dont use TCP they use the “User D
 use case streaming audio, video conferencing etc
 
 
+Research Note:
+
+
 ## Reference
