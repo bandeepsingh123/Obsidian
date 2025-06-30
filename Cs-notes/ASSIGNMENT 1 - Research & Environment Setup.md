@@ -70,6 +70,8 @@ Accept a client connection request.
 `read()` / `write()` (or `recv()` / `send()`)
 Exchange data with the connected client.
 
+Hypertext Transfer Protocol (HTTP) : 
+- is used by web browser and servers to request and delie
 
 
 ## Reference
