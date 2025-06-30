@@ -25,4 +25,6 @@ TCP makes sure data arrives sequentially and error-free
 
 DataGram sockets use IP for routing but they dont use TCP they use the “User Datagram Protocol”
 use case streaming audio, video conferencing etc
+
+
 ## Reference
