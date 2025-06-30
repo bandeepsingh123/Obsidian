@@ -29,5 +29,6 @@ use case streaming audio, video conferencing etc
 
 Research Note:
 
-
+what is a Socket( )?
+- Socket is a 
 ## Reference
