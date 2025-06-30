@@ -30,5 +30,5 @@ use case streaming audio, video conferencing etc
 Research Note:
 
 what is a Socket( )?
-- Socket is a 
+- Socket is a virtual plug used by programs to communicate( send and receive data ) using standard Unix file descriptors.
 ## Reference
