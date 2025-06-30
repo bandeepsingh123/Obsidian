@@ -347,4 +347,5 @@ Json Formatt:
 
 -------------------------
 ### Upload file in .txt format
-with this c
+with this command : “Use the same mentor system prompt from the uploaded file.”
+### Summarize Each Phase Periodically
