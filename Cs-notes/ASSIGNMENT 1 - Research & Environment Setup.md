@@ -71,7 +71,10 @@ Accept a client connection request.
 Exchange data with the connected client.
 
 Hypertext Transfer Protocol (HTTP) : 
-- is used by web browser and servers to request and delie
+- is used by web browser and servers to request and deliver data
+
+HTTP request format (GET /path HTTP/1.1):
+- GET:
 
 
 ## Reference
