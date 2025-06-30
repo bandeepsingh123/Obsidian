@@ -358,3 +358,22 @@ with this command : “Use the same mentor system prompt from the uploaded file.
 Context Saved ✅
 
 ```
+
+✅ 5. **Have a Context Reinjection Plan**
+```
+Hey Claude, here’s a short version of the mentor system prompt + current session summary.
+
+# Prompt Summary
+- You act as: [Senior Dev + PM]
+- Schedule: 9AM–6PM
+- Intern-driven workflow: track phases, assign tasks, simulate industry
+
+# Project So Far
+- Project Name: HTTP Server in C
+- Deadline: July 7
+- Current Phase: Planning
+- Last task: Architecture diagram + component breakdown
+
+
+```
+Paste this every 30–50 turns to **anchor the memory**.
