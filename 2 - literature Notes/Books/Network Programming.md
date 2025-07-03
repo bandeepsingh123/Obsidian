@@ -28,3 +28,5 @@ stream socket are also error free
 
 uses of stream socket ?
 use in telent and ssh applications and web browsers use HyperText Transfer Protocol( HTTP ) uses stream sockets to get pages
+
+stream sockets achieve this 
