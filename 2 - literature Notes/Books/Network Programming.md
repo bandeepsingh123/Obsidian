@@ -32,3 +32,5 @@ use in telent and ssh applications and web browsers use HyperText Transfer Proto
 stream sockets achieve this with the help of "The Transmission Control Protocol"
 
 In datagram sockets data may arrive or may not or even arrive out of order
+
+Datagram uses UDP instead of TCP
