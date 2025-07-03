@@ -22,4 +22,6 @@ types of internet sockets :
 
 stream sockets are reliable and two way connected communication stream
 
-output two items into the stream socket in order 1 2 they will a
+output two items into the stream socket in order 1 2 they will arrive in the order 1 2  at the opposite end
+
+stream 
