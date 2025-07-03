@@ -6,4 +6,4 @@ Status : #inProgress
 ## Information
 
 what are sockets?
-a way/method used by programs to communicate( send and recve data )
+a way/method used by programs to communicate( send and receive data )
