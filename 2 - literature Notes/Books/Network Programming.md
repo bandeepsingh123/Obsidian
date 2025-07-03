@@ -7,3 +7,7 @@ Status : #inProgress
 
 what are sockets?
 a way/method used by programs to communicate( send and receive data )
+
+Everything in unix is a file
+
+file descriptor 
