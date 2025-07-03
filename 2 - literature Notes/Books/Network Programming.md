@@ -1,8 +1,8 @@
 Date : 2025-07-03  Time : 15:47
 
-Source : beej
+Source : beej's guide to network programming
 
-Status : 
+Status : #pending  
 
 ## Information
 
