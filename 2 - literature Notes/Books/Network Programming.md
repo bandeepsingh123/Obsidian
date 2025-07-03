@@ -10,5 +10,7 @@ a way/method used by programs to communicate( send and receive data )
 
 Everything in unix is a file
 
-file descriptor -  an integer associated with an open file
+file descriptor -  an integer associated with an open file 
+
+everything on UNIX is a 
 
