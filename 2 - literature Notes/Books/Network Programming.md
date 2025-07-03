@@ -18,5 +18,6 @@ types of sockets - DARPA internet sockets , CCITT X.25 addresses
 
 types of internet sockets :
 - stream sockets referred to as SOCK_STREAM
-- datagram sockets referred to as SOCK_DGRAM aslo 
+- datagram sockets referred to as SOCK_DGRAM aslo called  connectionless socket
 
+stream sockets are reliable and two way connected communication stream
