@@ -17,4 +17,4 @@ everything on UNIX is a file
 types of sockets - DARPA internet sockets , CCITT X.25 addresses
 
 types of internet sockets :
-- stream sockets
+- stream sockets referred to as SOCK_
