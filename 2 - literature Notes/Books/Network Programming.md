@@ -12,6 +12,7 @@ Everything in unix is a file
 
 file descriptor -  an integer associated with an open file 
 
-everything on UNIX is a file
+everything on UNIX is a file 
+
 
 
