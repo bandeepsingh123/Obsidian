@@ -21,3 +21,5 @@ types of internet sockets :
 - datagram sockets referred to as SOCK_DGRAM aslo called  connectionless socket
 
 stream sockets are reliable and two way connected communication stream
+
+output two items into the stream socket in order 1 2 they will a
