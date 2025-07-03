@@ -14,6 +14,6 @@ file descriptor -  an integer associated with an open file
 
 everything on UNIX is a file 
 
-types of sockets - DARPA internet sockets
+types of sockets - DARPA internet sockets , CCITT X.25 addresses
 
-
+types of internet sockets
