@@ -7,7 +7,12 @@ gym saas
 waste management
 farming
 general/grocery store
-car equipment manufacturin
+car equipment manufacturing 
+contract manufacturing
+e ticket booking app
+credit card app
+project management system like jira
+CRM tool
 
 
 
