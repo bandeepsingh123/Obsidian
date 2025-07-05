@@ -19,7 +19,7 @@
     
 - Live Video Streaming Platform
 - Jira clone 
-- AI-Powered 
+- AI-Powered LeetCode Clone
     
 
 ### 🌐 Fullstack & Cloud (spare hours)
