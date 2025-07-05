@@ -1782,3 +1782,13 @@ For each phase and sub-discipline, demonstrate:
 ---
 
 **"True mastery is not the accumulation of knowledge, but the integration of wisdom across all domains of human experience and beyond."**
+
+
+-----
+welding
+mettualargy
+pottery and ceremics
+bushcraft
+camping
+ship flying
+jet flying
