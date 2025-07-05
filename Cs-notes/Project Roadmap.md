@@ -104,6 +104,65 @@
         
     - PDF Tools
 
+Bit Torrent Client In NodeJs
+
+Block Chain With Python
+
+Building Own Cli Using NodeJs
+
+Simple DataBase in C
+
+Docker Using C
+
+Virtual Machine Using C/C++
+
+JavaScript FrameWork
+
+Network Stack
+
+Operating System - Linux from Scratch
+
+Shell
+
+Making My Own Programming Language
+
+My Own Search Engine
+
+Text Editor
+
+My Own Web Browser
+
+My Own Server
+
+Youtube Clone
+
+Portfolio Website
+
+Algorithm Visualizer
+
+Server - Nodejs
+
+Real-Time Ticket Booking App
+
+Integrating the above project with a payment Gateway.
+
+Distributed File System
+
+Robust Payment Retry Mechanism
+
+Smart Utility Management System.
+
+UPI app
+
+movie ticket booking app
+
+travel hotel flight app
+
+Youtube Clone
+
+Portfolio Website
+
+A
 
 ---
 
