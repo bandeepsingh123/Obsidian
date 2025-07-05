@@ -1797,4 +1797,35 @@ navigation
 lockpicking
 communication
 embroidery
-threadmaking and stic
+threadmaking and stiching
+fabric manufacturing
+wood working-furniture making
+- [ ] [3-Math Skills]]
+- [ ] [[4-Finance]]
+- [ ] History
+- [ ] Mind Palace
+- [ ] Memorization
+- [ ] politics
+- [ ] chess
+- [ ] poker
+- [ ] 5-Language
+- [ ] 6-Martial Arts
+- [ ] 7-Music
+- [ ] poly-phase sleep
+- [ ] micro-sleep
+- [ ] Painting
+- [ ] Poetry
+- [ ] Photographic Memory
+- [ ] Peripheral Vision
+- [ ] GeoGuessor
+- [ ] negotiation
+- [ ] selling
+- [ ] marketing
+- [ ] speed reading
+- [ ] etiquette
+- [ ] gun smithing
+- [ ] blacksmithing
+- [ ] Forging
+- [ ] Blade smithing
+- [ ] Wood working-furniture making
+- [ ] Fabric manufacturing
