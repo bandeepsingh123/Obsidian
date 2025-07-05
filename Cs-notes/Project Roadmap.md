@@ -9,15 +9,17 @@
 
 - HTTP Server
     
-- VPN Server
+- VPN Server  + DNS Server
     
 - Web Proxy Server
     
-- Git Clone
+- Git Clone in C
     
-- Redis Clone
+- Redis Clone in C
     
 - Live Video Streaming Platform
+- Jira clone 
+- AI-Powered 
     
 
 ### 🌐 Fullstack & Cloud (spare hours)
