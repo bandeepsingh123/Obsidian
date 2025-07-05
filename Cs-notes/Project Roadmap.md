@@ -211,3 +211,9 @@
 - Master AI + security
     
 - Build an empire of tools with you at the center
+---------------------
+### Build these after completing the DSA
+Number Guessing Game
+Telephone Directory with File Handling
+Bank Account Simulation - OOPS
+File Encryption
