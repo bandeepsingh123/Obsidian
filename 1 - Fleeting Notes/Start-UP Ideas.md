@@ -12,7 +12,8 @@ contract manufacturing
 e ticket booking app
 credit card app
 project management system like jira
-CRM tool
+CRM tool for startups and freelancers like salesforce
+
 
 
 
