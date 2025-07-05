@@ -2,7 +2,7 @@ Date : 2025-07-06  Time : 01:05
 
 Source :
 
-Status : 
+Status :  #done
 ## Information
 
 **Remembering**: Recall facts, terms, basic concepts, and answers.
