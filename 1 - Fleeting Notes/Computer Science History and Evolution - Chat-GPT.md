@@ -1,6 +1,3 @@
-Date : 2025-06-30  Time : 19:12
-Status : #pending
-
 # History and Evolution of Computer Science
 
 ## Chapter 1: Foundations of Computing (Pre-20th Century)

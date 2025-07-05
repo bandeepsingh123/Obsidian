@@ -1,6 +1,3 @@
-Date : 2025-06-30  Time : 19:27
-
-Status : #pending 
 # History and Evolution of Mathematics
 
 ## Overview

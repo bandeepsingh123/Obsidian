@@ -1,6 +1,3 @@
-Date : 2025-06-30  Time : 17:54
-
-Status : #pending 
 # Complete Timeline: History of Mathematics
 
 ## A Comprehensive Reference for the Evolution of Mathematical Knowledge
