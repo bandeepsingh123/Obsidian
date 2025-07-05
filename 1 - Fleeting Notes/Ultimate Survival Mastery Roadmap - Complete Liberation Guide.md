@@ -1792,3 +1792,9 @@ bushcraft
 camping
 ship flying
 jet flying
+psycology
+navigation
+lockpicking
+communication
+embroidery
+threadmaking and stic
