@@ -1800,8 +1800,8 @@ embroidery
 threadmaking and stiching
 fabric manufacturing
 wood working-furniture making
-- [ ] [3-Math Skills]]
-- [ ] [[4-Finance]]
+Math Skills
+Finance
 - [ ] History
 - [ ] Mind Palace
 - [ ] Memorization
