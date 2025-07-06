@@ -5,3 +5,6 @@
   - Video Streaming Platform
 ### Step 2: Complete DSA
 ### Step 3: Then Build and Document these Projects 
+HTTP Server in C
+VPN Server in C
+DNS Server in C
