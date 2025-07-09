@@ -1,2 +1,6 @@
 ### Finish Hitesh's Web Dev Course UpTo Deployment
-#### T
+#### Then build following Projects
+##### SAAS Code Editor
+##### Live Interview Platfrom
+##### JIRA CLone
+##### Ai 
