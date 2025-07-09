@@ -7,4 +7,4 @@
 
 Before 20 july
 
-Then start DSA + 
+Then start DSA + git clone and open source contribut
