@@ -4,7 +4,10 @@
 
 #### Then Built a new version with back-end
 
-####
+#### Built a new version with react JS
+
+#### Built a new version with Next JS
+
 ##### SAAS Code Editor
 ##### Live Interview Platfrom
 ##### JIRA CLone
