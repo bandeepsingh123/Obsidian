@@ -1,8 +1,10 @@
 ## Finish Hitesh's Web Dev Course UpTo Back-end Section
 ### Then build a ToDo App i following manner
+#### Built it with only javascript and local storage
 
+#### Then Built a new version with back-end
 
-
+####
 ##### SAAS Code Editor
 ##### Live Interview Platfrom
 ##### JIRA CLone
