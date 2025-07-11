@@ -15,7 +15,7 @@
 
 Before 20 july
 
-Then start DSA + git clone and open source contributions
+Then Morning DSA + Whole Day Hitesh Course Revision +
 
 
  
