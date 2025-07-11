@@ -15,7 +15,7 @@
 
 Before 20 july
 
-Then Morning DSA + Whole Day Hitesh Course Revision + 
+Then Morning DSA + Whole Day Hitesh Course Revision + Open source contribution
 
 
  
