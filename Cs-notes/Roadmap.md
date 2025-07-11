@@ -11,4 +11,5 @@ Then start DSA + git clone and open source contributions
 
 -----
  build a todo app using only javascript and local storage
- then make the same project again using mongo db backend 
+ then make the same project again using mongo db backend and then with react js and then with node js
+ 
