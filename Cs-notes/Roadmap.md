@@ -1,8 +1,8 @@
+## Finish Hitesh's Web Dev Course UpTo Back-end Section
+### Then build a ToDo App i following manner
 
 
 
-### Finish Hitesh's Web Dev Course UpTo Deployment
-#### Then build following Projects
 ##### SAAS Code Editor
 ##### Live Interview Platfrom
 ##### JIRA CLone
