@@ -15,7 +15,8 @@
 
 Before 20 july
 
-Then Morning DSA + Whole Day Hitesh Course Revision + Open source contribution + rei
+Then Morning DSA + Whole Day Hitesh Course Revision + Open source contribution + redis  clone in c
+
 
 
  
