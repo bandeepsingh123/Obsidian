@@ -1,5 +1,5 @@
 ## Finish Hitesh's Web Dev Course UpTo Back-end Section BY 12 JULY
-### Then build a ToDo App i following manner
+### Then build a ToDo App in following manner
 #### Built it with only javascript and local storage
 
 #### Then Built a new version with back-end
