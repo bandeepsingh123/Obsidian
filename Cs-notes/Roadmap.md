@@ -1,4 +1,4 @@
-## Finish Hitesh's Web Dev Course UpTo Back-end Section
+## Finish Hitesh's Web Dev Course UpTo Back-end Section BY 12 JULY
 ### Then build a ToDo App i following manner
 #### Built it with only javascript and local storage
 
@@ -15,7 +15,7 @@
 
 Before 20 july
 
-Then Morning DSA + Whole Day Hitesh Course Revision + Open source contribution
+Then Morning DSA + Whole Day Hitesh Course Revision + Open source contribution + rei
 
 
  
